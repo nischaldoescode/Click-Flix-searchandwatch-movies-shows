@@ -1,7 +1,7 @@
 # 💻 Click Flix -search and watch,movies,shows 💻
 
 ## 📚 Description 📚
-This web app works on searching movies and gets you free way to just stream and watch. It works on fetching the data from the web.
+This web app works on searching movies and gets you free way to just stream and watch. It works on fetching the data from the web. The project is finished and ready, If you're Curious about the source code and website, Just let me know.
 
 ## 🚀 Features 🚀
 - Movies/Shows stream 
